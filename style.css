@@ -1,0 +1,25 @@
+html{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+footer{
+  box-shadow: 0 -2px 4px -2px black;
+  position: fixed;
+  text-align: center;
+  padding: 16px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+header{
+    font-size: 35px;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar{
+    float: right;
+}
