@@ -1,5 +1,6 @@
 html{
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, rgb(144, 18, 247) , rgb(175, 138, 245), rgb(121, 151, 233));
 }
 
 footer{
@@ -20,6 +21,23 @@ h1{
     text-align: center;
 }
 
+h2{
+    padding: 30px;
+}
+
+h3{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Courier New', monospace;
+}
+
 .navbar{
     float: right;
 }
+
+img{
+    padding-left: 380px;
+    height: auto;
+    width: 450px;
+}
+    
